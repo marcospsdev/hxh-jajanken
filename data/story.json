@@ -1,0 +1,30 @@
+{
+  "intro": [
+    { "speaker": "", "portrait": "", "text": "Palácio Real de East Gorteau. Enquanto Netero enfrenta o Rei longe dali, Gon finalmente encontra Neferpitou." },
+    { "speaker": "", "portrait": "komugi", "text": "Mas Pitou não está lutando: está usando Doctor Blythe para curar uma garota cega e gravemente ferida." },
+    { "speaker": "Gon", "portrait": "gon", "text": "Eu vim por causa do Kite. Você vai curá-lo." },
+    { "speaker": "Neferpitou", "portrait": "pitou", "text": "Deixe-me terminar de curar esta garota. Depois disso, faço o que você quiser." },
+    { "speaker": "", "portrait": "", "text": "Gon espera. Quando a cura termina, Pitou confessa: Kite não pode voltar. O que resta dele é apenas um boneco." },
+    { "speaker": "Gon", "portrait": "gon", "text": "...Então não tem mais jeito." },
+    { "speaker": "TUTORIAL", "portrait": "", "text": "Escolha PEDRA, TESOURA ou PAPEL com as setas e Enter. Quando o anel se fechar sobre o alvo, aperte ESPAÇO/ENTER no instante do encontro para um golpe PERFEITO." },
+    { "speaker": "TUTORIAL", "portrait": "", "text": "No turno de Pitou, aperte no impacto para uma DEFESA PERFEITA. Quando Pitou se agachar, o próximo golpe será o Salto Felino: prepare-se!" }
+  ],
+  "transform": [
+    { "speaker": "Gon", "portrait": "gon", "text": "Não importa o que aconteça comigo depois. Eu preciso de poder para acabar com isso. Agora." },
+    { "speaker": "", "portrait": "", "text": "Gon força seu Nen a amadurecer de uma vez, entregando todo o potencial que teria pela vida inteira." },
+    { "speaker": "", "portrait": "gon_adulto", "text": "Seu corpo cresce até a idade adulta. A aura é tão densa que deixa o ar pesado." },
+    { "speaker": "Neferpitou", "portrait": "pitou", "text": "Essa aura... não pode ser. Ele está mais forte que o Rei?" },
+    { "speaker": "TUTORIAL", "portrait": "", "text": "Gon adulto: cada GOLPE é mais forte que o anterior. Acumule Poder até liberar o JAJANKEN: PEDRA final, um comando cronometrado longo de três tempos." }
+  ],
+  "victory": [
+    { "speaker": "Gon", "portrait": "gon_adulto", "text": "Saisho wa guu... Jan... Ken..." },
+    { "speaker": "Gon", "portrait": "gon_adulto", "text": "PEDRA!" },
+    { "speaker": "", "portrait": "", "text": "O golpe põe fim a Neferpitou. Ainda assim, mesmo depois de morta, Terpsichora move seu corpo para um último ataque." },
+    { "speaker": "", "portrait": "", "text": "O poder que Gon tomou para si cobraria um preço altíssimo. Mas isso já é outra história." }
+  ],
+  "credits": [
+    { "speaker": "CRÉDITOS", "portrait": "", "text": "Hunter x Hunter © Yoshihiro Togashi. Jogo de fã para estudo, sem fins comerciais e sem distribuição." },
+    { "speaker": "CRÉDITOS", "portrait": "", "text": "Programação: Godot 4 .NET + C#. Sprites: provisórios em pixel art (gerados no código) até a integração dos sprites listados em assets/TODO_DOWNLOAD.md." },
+    { "speaker": "", "portrait": "", "text": "Obrigado por jogar!" }
+  ]
+}
